@@ -1,0 +1,41 @@
+PODS:
+  - IQKeyboardManager (4.0.3)
+  - Masonry (1.0.0)
+  - MBProgressHUD (0.9.2)
+  - MGSwipeTableCell (1.5.5)
+  - MJRefresh (2.4.12)
+  - MSWeakTimer (1.1.0)
+  - SafeKit (1.4.1):
+    - SafeKit/Foundation (= 1.4.1)
+    - SafeKit/MRC (= 1.4.1)
+    - SafeKit/SafeCore (= 1.4.1)
+  - SafeKit/Foundation (1.4.1):
+    - SafeKit/SafeCore
+  - SafeKit/MRC (1.4.1):
+    - SafeKit/SafeCore
+  - SafeKit/SafeCore (1.4.1)
+  - UMengSocialCOM (5.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD (~> 0.9.1)
+  - MGSwipeTableCell (~> 1.5.1)
+  - MJRefresh (~> 2.4.11)
+  - MSWeakTimer (~> 1.1.0)
+  - SafeKit
+  - UMengSocialCOM
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: be9695ffc5a52077deb4847608f338771022d6d1
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MGSwipeTableCell: bafeb5f351124544c9364ecbdf24c7b06a37d340
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+  SafeKit: 7d20e4b2680498cda979913bedee5f993f60de96
+  UMengSocialCOM: c5fd4182cd86d93192d3cb2fd4a64509ebed0528
+
+PODFILE CHECKSUM: c5e8710a4d0ca7e08e3e644d84d9562f2cee622d
+
+COCOAPODS: 1.0.0.beta.8
